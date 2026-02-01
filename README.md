@@ -109,7 +109,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
   <br />
   <p><i>“Build things that matter, share what you learn, and keep your code friendly.”</i></p>
-  <p><i>-RC JESTOR</i></p><br/>
+  <p><i>-RC JESTOR-</i></p><br/>
   <b>⚡ RC JESTOR | Knight-Bot-MD | JESTOR-MD | Innovate , Automate , Secure ⚡</b>
   
   <br/><br/>
