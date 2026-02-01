@@ -46,7 +46,6 @@
           <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&repo=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=20C20E" alt="RC-JESTOR" />
         </a>
         <br/>
-        <i>Enhanced controls for RC JESTOR (Coming Soon)</i>
       </td>
     </tr>
   </table>
