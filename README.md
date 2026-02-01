@@ -125,5 +125,5 @@
 [User]      : Navida Wijesuriya (RC JESTOR)
 [Education] : Swinburne University (Cybersecurity)
 [Role]      : Bot Developer & Network Enthusiast
-[Projects]  : KnightBot-MD, RC-JESTOR
+[Projects]  : Knight-Bot-MD, RC-JESTOR
 [Mission]   : "To innovate and build smarter automation."
