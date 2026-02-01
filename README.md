@@ -33,7 +33,7 @@
       <td width="50%" align="center">
         <h3>⚔️ KnightBot-MD</h3>
         <a href="https://github.com/RC-JESTOR/KnightBot-MD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=KnightBot-MD&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=KnightBot-MD&theme=transparent&title_color=20C20E&text_color=ffffff&icon_color=20C20E&bg_color=0d1117&hide_border=true" alt="KnightBot-MD Card" />
         </a>
         <br/>
         <i>Multi-device WhatsApp bot (Node.js + Baileys)</i>
@@ -41,7 +41,7 @@
       <td width="50%" align="center">
         <h3>🧠 JESTOR MD</h3>
         <a href="https://github.com/RC-JESTOR/RC-JESTOR">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=RC-JESTOR&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=RC-JESTOR&theme=transparent&title_color=20C20E&text_color=ffffff&icon_color=20C20E&bg_color=0d1117&hide_border=true" alt="JESTOR MD Card" />
         </a>
         <br/>
         <i>Enhanced controls for RC JESTOR (Coming Soon)</i>
@@ -49,7 +49,6 @@
     </tr>
   </table>
 </div>
-
 <br />
 
 <h2 align="center">🎧 <span style="color:#20C20E">Multimedia Protocol</span></h2>
