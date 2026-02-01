@@ -43,9 +43,10 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RC-JESTOR/RC-JESTOR">
-          <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&repo=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=20C20E" alt="RC-JESTOR" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=RC-JESTOR&theme=nightowl&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=20C20E" alt="RC-JESTOR" />
         </a>
         <br/>
+        <i>Enhanced controls for RC JESTOR (Coming Soon)</i>
       </td>
     </tr>
   </table>
@@ -58,7 +59,7 @@
 <table>
   <tr>
     <td valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0cHR3M2Z5eDl5Z3Z5eDl5Z3Z5eDl5Z3Z5eDl5Z3Z5eDl5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L20E2p3Kys782gT0N3/giphy.gif" width="100" />
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="150" />
     </td>
     <td>
       <b>Bot Audio Commands:</b><br/>
@@ -88,11 +89,12 @@
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-JESTOR&theme=react&hide_border=true&background=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-JESTOR&layout=compact&theme=react&hide_border=true&bg_color=0d1117" height="180" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-JESTOR&layout=compact&theme=react&hide_border=true&bg_color=0d1117" />
+  <p><b>3D Contribution Model:</b></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-JESTOR&theme=github_dark" />
 </div>
 
 <h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2>
