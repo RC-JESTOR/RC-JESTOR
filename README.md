@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/RC-JESTOR/Knight-Bot-MD">
+        <a href="https://github.com/RC-JESTOR/Knight-Bot-MD"><br/>
           <img src="https://img.shields.io/badge/PROJECT-KNIGHT_BOT_MD-20C20E?style=for-the-badge&logo=github&logoColor=white" />
           <br/>
           <br/>
