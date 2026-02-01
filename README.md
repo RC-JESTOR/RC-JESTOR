@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=RC%20JESTOR&width=1000&height=220" alt="RC JESTOR Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=RC%20JESTOR❤️‍🔥&width=1000&height=220" alt="RC JESTOR Banner" />
 </div>
 
 <div align="center">
