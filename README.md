@@ -26,17 +26,17 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=root@jestor:~%23+neofetch+--sysinfo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=root@jestor:~%23+neofetch+--sysinfo" />
 </div>
 <h2 align="center">🚀 <span style="color:#20C20E">Active Deployments</span></h2>
 
-<div align="center"> <table> <tr> <td width="50%" align="center"> <h3>⚔️ KnightBot-MD</h3> <a href="https://github.com/wijesuriya2017/Knightbot-MD"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dwijesuriya2017%26repo%3DKnightbot-MD%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26icon_color%3D20C20E" /> </a>
+<div align="center"> <table> <tr> <td width="50%" align="center"> <h3>⚔️ KnightBot-MD</h3> <a href="https://github.com/wijesuriya2017/KnightBot-MD"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dwijesuriya2017%26repo%3DKnightBot-MD%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26icon_color%3D20C20E" /> </a>
 
 
-<i>Multi-device WhatsApp bot (Node.js + Baileys)</i> </td> <td width="50%" align="center"> <h3>🧠 JESTOR MD</h3> <a href="https://github.com/wijesuriya2017"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dwijesuriya2017%26repo%3Dwijesuriya2017%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26icon_color%3D20C20E" /> </a>
+<i>Multi-device WhatsApp bot</i> </td> <td width="50%" align="center"> <h3>🧠 JESTOR MD</h3> <a href="https://github.com/wijesuriya2017"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dwijesuriya2017%26repo%3Dwijesuriya2017%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26icon_color%3D20C20E" /> </a>
 
 
-<i>Enhanced controls for RC JESTOR (Coming Soon)</i> </td> </tr> </table> </div>
+<i>Enhanced controls for RC JESTOR</i> </td> </tr> </table> </div>
 
 <br />
 
@@ -55,23 +55,15 @@
 
 <br />
 
-<h2 align="center">⚡ <span style="color:#20C20E">The Arsenal</span> (Tech Stack)</h2> <div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,nodejs,linux,kali,git,github,vscode,npm,html,css,bash,md%26perline%3D8" /> </div>
+<h2 align="center">⚡ <span style="color:#20C20E">The Arsenal</span></h2> <div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,nodejs,linux,kali,git,github,vscode,npm,html,css,bash,md%26perline%3D8" /> </div>
 
 <br />
 
 <h2 align="center">📊 <span style="color:#20C20E">System Analytics</span></h2>
 
-<div align="center"> <a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophies"> <img src="https://www.google.com/search?q=https://github-profile-trophies.vercel.app/%3Fusername%3Dwijesuriya2017%26theme%3Dgit_dark%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" width="800" /> </a>
+<div align="center"> <a href="https://github.com/wijesuriya2017"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwijesuriya2017%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26count_private%3Dtrue" height="180" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwijesuriya2017%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" /> </a> </div>
 
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwijesuriya2017%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26count_private%3Dtrue" height="180" /> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dwijesuriya2017%26theme%3Dreact%26hide_border%3Dtrue%26background%3D0d1117" height="180" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwijesuriya2017%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117" /> </div>
-
-<h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2> <div align="center"> <img src="https://www.google.com/search?q=https://github.com/wijesuriya2017/wijesuriya2017/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/> </div>
+<h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2> <div align="center"> <img src="https://www.google.com/search?q=https://github.com/wijesuriya2017/wijesuriya2017/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation will appear here after Action runs" width="100%"/> </div>
 
 <br />
 
@@ -79,9 +71,7 @@
 
 
 
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dwijesuriya2017%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
-
-</div>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dwijesuriya2017%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" /> </div>
 ```bash
 # 📂 SYSTEM INFO: wijesuriya2017
 
@@ -90,3 +80,4 @@
 [Role]      : Bot Developer & Network Enthusiast
 [Projects]  : KnightBot-MD, JESTOR MD
 [Mission]   : "To innovate and build smarter automation."
+
