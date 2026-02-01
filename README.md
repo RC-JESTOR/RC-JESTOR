@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=RC%20JESTOR❤️‍🔥&width=1000&height=220" alt="RC JESTOR Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=RC%20JESTOR&width=1000&height=220" alt="RC JESTOR Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Navida+Wijesuriya;RC+JESTOR;Cybersecurity+Student+@+Swinburne;Owner+of+JESTOR+MD;Bot+Developer+(KnightBot-MD);Innovate+,+Automate+,+Secure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Navida+Wijesuriya;Cybersecurity+Student+@+Swinburne;Owner+of+RC+JESTOR;Bot+Developer+(KnightBot-MD);Innovate+.+Automate+.+Secure" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,16 +32,16 @@
     <tr>
       <td width="50%" align="center">
         <h3>⚔️ KnightBot-MD</h3>
-        <a href="https://github.com/wijesuriya2017/KnightBot-MD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wijesuriya2017&repo=KnightBot-MD&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/RC-JESTOR/KnightBot-MD">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=KnightBot-MD&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" />
         </a>
         <br/>
         <i>Multi-device WhatsApp bot (Node.js + Baileys)</i>
       </td>
       <td width="50%" align="center">
         <h3>🧠 JESTOR MD</h3>
-        <a href="https://github.com/wijesuriya2017/wijesuriya2017">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wijesuriya2017&repo=wijesuriya2017&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" />
+        <a href="https://github.com/RC-JESTOR/RC-JESTOR">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=RC-JESTOR&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" />
         </a>
         <br/>
         <i>Enhanced controls for RC JESTOR (Coming Soon)</i>
@@ -83,21 +83,21 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=wijesuriya2017&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" width="800" />
+    <img src="https://github-profile-trophies.vercel.app/?username=RC-JESTOR&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" width="800" />
   </a>
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=wijesuriya2017&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wijesuriya2017&theme=react&hide_border=true&background=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RC-JESTOR&theme=react&hide_border=true&background=0d1117" height="180" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijesuriya2017&layout=compact&theme=react&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-JESTOR&layout=compact&theme=react&hide_border=true&bg_color=0d1117" />
 </div>
 
 <h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wijesuriya2017/wijesuriya2017/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RC-JESTOR/RC-JESTOR/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <br />
@@ -109,7 +109,7 @@
   <b>⚡ RC JESTOR | KnightBot-MD | Innovate . Automate . Secure ⚡</b>
   
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=wijesuriya2017&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RC-JESTOR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
@@ -121,10 +121,10 @@
 <br />
 
 ```bash
-# 📂 SYSTEM INFO: wijesuriya2017
+# 📂 SYSTEM INFO: RC-JESTOR
 
 [User]      : Navida Wijesuriya (RC JESTOR)
 [Education] : Swinburne University (Cybersecurity)
 [Role]      : Bot Developer & Network Enthusiast
-[Projects]  : KnightBot-MD, JESTOR MD
+[Projects]  : KnightBot-MD, RC-JESTOR
 [Mission]   : "To innovate and build smarter automation."
