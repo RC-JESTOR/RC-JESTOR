@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Navida+Wijesuriya;Cybersecurity+Student+@+Swinburne;Owner+of+RC+JESTOR;Bot+Developer+(KnightBot-MD);Innovate+.+Automate+.+Secure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Navida+Wijesuriya;RC+JESTOR;Cybersecurity+Student+@+Swinburne;Owner+of+JESTOR+MD;Bot+Developer+(KnightBot-MD);Innovate+,+Automate+,+Secure" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
       <td width="50%" align="center">
         <h3>⚔️ KnightBot-MD</h3>
         <a href="https://github.com/wijesuriya2017/KnightBot-MD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wijesuriya2017&repo=KnightBot-MD&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wijesuriya2017&repo=KnightBot-MD&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <br/>
         <i>Multi-device WhatsApp bot (Node.js + Baileys)</i>
