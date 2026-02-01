@@ -39,7 +39,7 @@
           <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=flat-square" />
         </a>
         <br/><br/>
-        <i>Multi-device WhatsApp bot (Node.js + Baileys)</i>
+        <i>Multi-device WhatsApp bot (Node.js + Baileys)</i><br/>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RC-JESTOR/RC-JESTOR">
