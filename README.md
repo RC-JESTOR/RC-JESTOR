@@ -28,17 +28,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=root@jestor:~%23+neofetch+--sysinfo" />
 </div>
-
-```bash
-# 📂 SYSTEM INFO: wijesuriya2017
-
-[User]      : Navida Wijesuriya (RC JESTOR)
-[Education] : Swinburne University (Cybersecurity)
-[Role]      : Bot Developer & Network Enthusiast
-[Projects]  : KnightBot-MD, JESTOR MD
-[Mission]   : "To innovate and build smarter automation."
-<h2 align="center">🚀 <span style="color:#20C20E">Active Deployments</span></h2>
-
 <div align="center"> <table> <tr> <td width="50%" align="center"> <h3>⚔️ KnightBot-MD</h3> <a href="https://github.com/wijesuriya2017/KnightBot-MD"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dwijesuriya2017%26repo%3DKnightBot-MD%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0d1117%26icon_color%3D20C20E" /> </a>
 
 
@@ -103,6 +92,7 @@
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dwijesuriya2017%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
 
 </div>
+
 ```bash
 # 📂 SYSTEM INFO: wijesuriya2017
 
@@ -111,4 +101,3 @@
 [Role]      : Bot Developer & Network Enthusiast
 [Projects]  : KnightBot-MD, JESTOR MD
 [Mission]   : "To innovate and build smarter automation."
-
