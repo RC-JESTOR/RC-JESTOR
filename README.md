@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0cHR3M2Z5eDl5Z3Z5eDl5Z3Z5eDl5Z3Z5eDl5Z3Z5eDl5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L20E2p3Kys782gT0N3/giphy.gif" width="100" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0cHR3M2Z5eDl5Z3Z5eDl5Z3Z5eDl5Z3Z5eDl5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L20E2p3Kys782gT0N3/giphy.gif" width="100" />
     </td>
     <td>
       <b>Bot Audio Commands:</b><br/>
