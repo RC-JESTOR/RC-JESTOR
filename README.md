@@ -111,7 +111,7 @@
   <p><i>“Build things that matter, share what you learn, and keep your code friendly.”</i></p>
   <b>⚡ RC JESTOR | Knight-Bot-MD | Innovate , Automate , Secure ⚡</b>
   
-  <br/>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=RC-JESTOR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
