@@ -33,8 +33,8 @@
       <td width="50%" align="center">
         <h3>⚔️ Knight-Bot-MD</h3>
         <a href="https://github.com/RC-JESTOR/Knight-Bot-MD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=Knight-Bot-MD&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E" alt="Knight-Bot-MD Card" />
-        </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&repo=Knight-Bot-MD&show_icons=true&theme=react&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&border_color=20C20E" alt="Knight-Bot-MD Stats" />
+</a>
         <br/>
         <i>Multi-device WhatsApp bot (Node.js + Baileys)</i>
       </td>
