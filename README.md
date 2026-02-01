@@ -43,9 +43,13 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RC-JESTOR/RC-JESTOR">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RC-JESTOR&repo=RC-JESTOR&theme=nightowl&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=20C20E" alt="RC-JESTOR" />
+          <img src="https://img.shields.io/badge/CORE-RC_JESTOR_PROFILE-2CA5E0?style=for-the-badge&logo=github&logoColor=white" />
+          <br/>
+          <br/>
+          <img src="https://img.shields.io/badge/ACCESS-PUBLIC_/_OPEN-success?style=flat-square" />
+          <img src="https://img.shields.io/badge/SYSTEM-ONLINE-blue?style=flat-square" />
         </a>
-        <br/>
+        <br/><br/>
         <i>Enhanced controls for RC JESTOR (Coming Soon)</i>
       </td>
     </tr>
@@ -88,13 +92,10 @@
   </a>
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-JESTOR&layout=compact&theme=react&hide_border=true&bg_color=0d1117" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-JESTOR&theme=radical" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RC-JESTOR&theme=radical" />
   
-  <br/><br/>
-  
-  <p><b>3D Contribution Model:</b></p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-JESTOR&theme=github_dark" />
 </div>
 
 <h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2>
