@@ -128,7 +128,7 @@
 # 📂 SYSTEM INFO: RC-JESTOR
 
 [User]      : Navida Wijesuriya (RC JESTOR)
-[Education] : Swinburne University (Cybersecurity)
+[Education] : Swinburne University Of Technology (Cybersecurity)
 [Role]      : Bot Developer & Network Enthusiast
 [Projects]  : Knight-Bot-MD, RC-JESTOR
 [Mission]   : "To innovate and build smarter automation."
