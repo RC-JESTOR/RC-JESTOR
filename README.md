@@ -123,16 +123,12 @@
   
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=RC-JESTOR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/RC-JESTOR?tab=followers">
+    <img src="https://img.shields.io/github/followers/RC-JESTOR?label=Followers&style=flat&color=20C20E&logo=github" alt="Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat&logo=open-source-initiative&logoColor=white" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-success.svg?style=flat&logo=spdx" alt="Maintained" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=root@jestor:~%23+neofetch+--sysinfo" />
-</div>
-
-<br />
-
 ```bash
 # 📂 SYSTEM INFO: RC-JESTOR
 
