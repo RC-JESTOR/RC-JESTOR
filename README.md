@@ -91,11 +91,15 @@
     <img src="https://github-profile-trophies.vercel.app/?username=RC-JESTOR&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" width="800" />
   </a>
   <br/><br/>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RC-JESTOR&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff&area=true&hide_border=true" width="800" />
+  </a>
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RC-JESTOR&theme=radical" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RC-JESTOR&theme=radical" />
+  <br/><br/>
   
+  <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=20C20E&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-JESTOR&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=20C20E" height="150" />
 </div>
 
 <h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2>
