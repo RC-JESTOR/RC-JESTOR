@@ -98,8 +98,13 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=RC-JESTOR&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&icon_color=20C20E&title_color=20C20E&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-JESTOR&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=20C20E" height="150" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-20C20E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-ENABLED-blue?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTS-OPEN-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/ROLE-CYBER_STUDENT-purple?style=for-the-badge&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOTS-ACTIVE-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
+  
 </div>
 
 <h2 align="center">🐍 <span style="color:#20C20E">Contribution Activity</span></h2>
