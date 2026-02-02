@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=RC%20JESTOR❤️‍🔥&width=1000&height=220" alt="RC JESTOR Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text2=RC%20JESTOR❤️‍🔥&width=1000&height=220" alt="RC JESTOR Banner" />
 </div>
 <br/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0E7AC2&center=true&vCenter=true&width=600&lines=Navida+Wijesuriya;Cybersecurity+Student+@+SWINBURNE;Owner+of+JESTOR-MD;Bot+Developer+(KnightBot-MD,JESTOR-MD);Innovate+,+Automate+,+Secure+,+& Reliable+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0E7AC2&center=true&vCenter=true&width=600&lines=Navida+Wijesuriya;Cybersecurity+Student+@+SWINBURNE;Owner+of+JESTOR-MD;Bot+Developer+(KnightBot-MD,JESTOR-MD);Innovate+,+Automate+,+Secure+,+Reliable+" alt="Typing SVG" />
   </a>
 </div><br/>
 
