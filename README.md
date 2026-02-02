@@ -129,6 +129,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat&logo=open-source-initiative&logoColor=white" alt="MIT License" />
   <img src="https://img.shields.io/badge/Maintained%3F-yes-success.svg?style=flat&logo=spdx" alt="Maintained" />
 </div>
+
 ```bash
 # 📂 SYSTEM INFO: RC-JESTOR
 
